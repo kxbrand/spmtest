@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "version": "",
+  "spm": {
+    "main":"jslib/index.js",
+    "output": [
+      "images/**/*.*",
+      "html/**/*.html",
+      "csslib/**/*.css",
+      "jslib/**/*.js"
+    ],
+    "dependencies": {
+    },
+    "ignore":["utils"],
+    "buildArgs": "--ignore jquery,base"
+  }
+}

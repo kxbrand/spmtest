@@ -1,0 +1,1 @@
+define("/jslib/base/base",[],function(e,s,o){{var a="base exports";e("jquery")}console.log("base"),o.exports=a});

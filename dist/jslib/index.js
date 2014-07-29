@@ -1,0 +1,1 @@
+define("/jslib/index",[],function(e){var o=e("jquery"),n=e("base");console.log(o),console.log(n)});
